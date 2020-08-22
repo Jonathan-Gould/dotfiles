@@ -1,0 +1,6 @@
+export PATH="/Applications/MacVim.app/Contents/bin:$PATH"
+export PATH="/usr/local/opt/python/libexec/bin:$PATH"
+export PATH="/Users/jonathangould/.bin:$PATH"
+export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="/Users/jonathangould/.miniconda3/bin:$PATH"
+#eval "$(jenv init -)"
