@@ -73,6 +73,4 @@ set undodir=/home/yourname/.vimundo/
 
 " see https://stevelosh.com/blog/2010/09/coming-home-to-vim/?#s27-scratch
 
-if filereadable("~/.plugin_stuff.vim")
-    source ~/.plugin_stuff.vim
-endif
+source ~/.plugin_stuff.vim

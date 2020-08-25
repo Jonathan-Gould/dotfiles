@@ -19,8 +19,8 @@ Plugin 'lervag/vimtex'
 Plugin 'plasticboy/vim-markdown'
 
 Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
-Plugin 'altercation/vim-colors-solarized'
+"Plugin 'vim-airline/vim-airline-themes'
+"Plugin 'altercation/vim-colors-solarized'
 
 "Plugin 'vim/killersheep'
 "Plugin 'honza/vim-snippets'
@@ -120,5 +120,5 @@ let g:vim_markdown_strikethrough = 1
 
 
 "Appearences
-    colorscheme solarized
-    let g:airline_powerline_fonts = 1
+    "colorscheme solarized
+    "let g:airline_powerline_fonts = 1
