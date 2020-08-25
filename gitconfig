@@ -1,9 +1,0 @@
-[core]
-	editor = vim
-	precomposeUnicode = true
-	autocrlf = input
-[credential]
-	helper = osxkeychain
-[user]
-	name = Jonathan Gould
-	email = jonathan.d.gould@gmail.com
