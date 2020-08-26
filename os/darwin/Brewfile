@@ -1,0 +1,102 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "martido/graph"
+tap "zegervdv/zathura"
+
+cask "adoptopenjdk8"
+
+brew "gettext"
+brew "autoconf@2.13"
+brew "brew-cask-completion"
+brew "clang-format"
+brew "cmake"
+brew "colordiff"
+brew "coreutils"
+brew "doxygen"
+brew "lame"
+brew "ffmpeg"
+brew "fftw"
+brew "fortune"
+brew "gdb"
+brew "geckodriver"
+brew "ghostscript", link: false
+brew "git"
+brew "gnu-tar"
+brew "gnupg"
+brew "graphviz"
+brew "htop"
+brew "imagemagick"
+brew "jenv"
+brew "libsecret"
+brew "ruby"
+brew "macvim"
+brew "mercurial"
+brew "mpv"
+brew "nasm"
+brew "node"
+brew "nsnake"
+brew "portaudio"
+brew "portmidi"
+brew "protobuf"
+brew "python@3.7"
+brew "r"
+brew "rbenv"
+brew "rename"
+brew "ripgrep"
+brew "rustup-init"
+brew "sbcl"
+brew "sdl"
+brew "sdl_image"
+brew "sdl_mixer"
+brew "sdl_ttf"
+brew "sl"
+brew "ssh-copy-id", link: true
+brew "terminal-notifier"
+brew "tldr"
+brew "tmux"
+brew "trash"
+brew "tree"
+brew "watchman"
+brew "wget"
+brew "xdotool"
+brew "yarn"
+brew "yasm"
+brew "zegervdv/zathura/zathura", args: ["with-synctex"]
+brew "zegervdv/zathura/zathura-pdf-poppler"
+brew "mas"
+
+mas "Amphetamine", id: 937984704
+
+cask "basictex"
+cask "chromedriver"
+cask "db-browser-for-sqlite"
+cask "deluge"
+cask "eclipse-java"
+cask "gimp"
+cask "inkscape"
+cask "iterm2"
+cask "java"
+cask "lilypond"
+cask "skim"
+cask "spotify"
+cask "vlc"
+cask "virtualbox"
+
+# audiacity
+# etcher
+# DaVinci Resolve
+cask "discord"
+cask "disk-inventory-x""
+cask "firefox"
+cask "zotero"
+cask "anki"
+
+# Hack
+# pycharm
+# intelij
+# matlab
+# paintbrush
+# polar
+# processing
